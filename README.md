@@ -54,15 +54,15 @@ www.google.com.         0       IN      A       142.250.187.132
 ;; MSG SIZE  rcvd: 62
 
 whois 8.8.8.8 | asking internet domain names/IPs |
-#
-# ARIN WHOIS data and services are subject to the Terms of Use
-# available at: https://www.arin.net/resources/registry/whois/tou/
-#
-# If you see inaccuracies in the results, please report at
-# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
-#
-# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
-#
+
+ ARIN WHOIS data and services are subject to the Terms of Use
+ available at: https://www.arin.net/resources/registry/whois/tou/
+
+ If you see inaccuracies in the results, please report at
+ https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+
+ Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+
 
 
 NetRange:       8.8.8.0 - 8.8.8.255
@@ -112,14 +112,14 @@ OrgAbuseEmail:  network-abuse@google.com
 OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
 
 
-#
-# ARIN WHOIS data and services are subject to the Terms of Use
-# available at: https://www.arin.net/resources/registry/whois/tou/
-#
-# If you see inaccuracies in the results, please report at
-# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
-#
-# Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
+
+ ARIN WHOIS data and services are subject to the Terms of Use
+ available at: https://www.arin.net/resources/registry/whois/tou/
+
+ If you see inaccuracies in the results, please report at
+ https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+
+ Copyright 1997-2024, American Registry for Internet Numbers, Ltd.
 
 
 - ssh | Secure remote access
